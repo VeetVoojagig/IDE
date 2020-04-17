@@ -6,4 +6,6 @@
 #
 # R code for simulating adult weights and investigating IDEs within truncated sample data
 #
+# Identifying intervention differential effects in heteroscedastic longitudinal data: an illustration using childhood weight trajectories and a hypothetical weight loss intervention
+#
 # R code for simulating child weights and investigating IDEs within heteroscedastic population data
